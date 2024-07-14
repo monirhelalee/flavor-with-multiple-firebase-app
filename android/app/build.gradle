@@ -48,16 +48,16 @@ android {
 
     productFlavors{
         prod{
-            resValue "string", "app_name", "flavor_example"
+            resValue "string", "app_name", "flavor example"
         }
 
         dev{
-            resValue "string", "app_name", "flavor_example-dev"
+            resValue "string", "app_name", "flavor example-dev"
             applicationIdSuffix ".dev"
         }
 
         stg{
-            resValue "string", "app_name", "flavor_example-stg"
+            resValue "string", "app_name", "flavor example-stg"
             applicationIdSuffix ".stg"
         }
     }
