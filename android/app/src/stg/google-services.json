@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "92007864718",
+    "project_id": "flavor-example-stg-8f505",
+    "storage_bucket": "flavor-example-stg-8f505.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92007864718:android:a4295e0e21638f936f2cdf",
+        "android_client_info": {
+          "package_name": "com.example.flavor_example.stg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8a9LHxTnRbuSAmmSy15l7KLPwHdjB8s8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
