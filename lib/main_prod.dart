@@ -1,8 +1,7 @@
 import 'package:firebase_core/firebase_core.dart';
+import 'package:flavor_example/firebase_options_prod.dart';
 import 'package:flavor_example/home.dart';
 import 'package:flutter/material.dart';
-
-import 'firebase_options_prod.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
