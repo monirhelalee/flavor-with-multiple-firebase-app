@@ -1,16 +1,7 @@
 # flavor_example
 
-A new Flutter project.
+🚀 Mastering Flutter flavors and Firebase integration for streamlined app development! Learn how to configure multiple environments seamlessly with this step-by-step guide. Whether it's development, staging, or production, harness the power of Flutter's flavors and Firebase's tools to optimize your workflow.😇 
 
-## Getting Started
+## Article
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://www.linkedin.com/pulse/setting-up-flutter-flavors-multiple-firebase-apps-cli-haider-helalee-zuxac/?trackingId=882zFXzlSPu2FqoSMV0idw%3D%3D
